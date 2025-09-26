@@ -10,4 +10,7 @@ public class Runner02 {
 
         //version 3
         System.out.println("gecmise Yolculuk..");
+        //version 4
+        System.out.println("v4 e hosgeldiniz");
+
 }}
